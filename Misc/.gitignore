@@ -1,0 +1,17 @@
+GHRSST/example/
+RADS/example/
+try.bat
+subset_dataset.py
+example_ghrsst/images/
+example_rads/example_rads.OLD
+RADS/rads_grid.py
+RADS/TimeGrid/
+RADS/__pycache__
+.vscode
+
+RADS/example/3ap0001c080.asc
+RADS/example/3ap0769c094.asc
+RADS/example/3ap0003c081.asc
+RADS/__pycache__/RADSgetgrid.cpython-39.pyc
+RADS/__pycache__/GridResolutionDisplay.cpython-39.__pycache__
+RADS/getRADSrawAllSat_memory_OLD/getRADSrawAllSat_1_365.npy

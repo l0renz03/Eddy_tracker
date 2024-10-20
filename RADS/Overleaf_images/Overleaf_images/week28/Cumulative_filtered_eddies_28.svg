@@ -1,0 +1,1339 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="391.2097pt" height="181.951537pt" viewBox="0 0 391.2097 181.951537" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2023-06-13T21:06:25.084500</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.5.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 181.951537 
+L 391.2097 181.951537 
+L 391.2097 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 44.879375 134.199036 
+L 330.575375 134.199036 
+L 330.575375 3.59515 
+L 44.879375 3.59515 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g clip-path="url(#p0358d75b8e)">
+    <image xlink:href="data:image/png;base64,
+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" id="image34e627c924" transform="scale(1 -1)translate(0 -131.04)" x="44.879375" y="-3.159036" width="285.84" height="131.04"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <defs>
+       <path id="m06108ff549" d="M 0 0 
+L 0 3.5 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m06108ff549" x="45.083444" y="134.199036" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <!-- -80.0 -->
+      <g transform="translate(32.161067 164.867226)rotate(-45)scale(0.1 -0.1)">
+       <defs>
+        <path id="DejaVuSans-2d" d="M 313 2009 
+L 1997 2009 
+L 1997 1497 
+L 313 1497 
+L 313 2009 
+z
+" transform="scale(0.015625)"/>
+        <path id="DejaVuSans-38" d="M 2034 2216 
+Q 1584 2216 1326 1975 
+Q 1069 1734 1069 1313 
+Q 1069 891 1326 650 
+Q 1584 409 2034 409 
+Q 2484 409 2743 651 
+Q 3003 894 3003 1313 
+Q 3003 1734 2745 1975 
+Q 2488 2216 2034 2216 
+z
+M 1403 2484 
+Q 997 2584 770 2862 
+Q 544 3141 544 3541 
+Q 544 4100 942 4425 
+Q 1341 4750 2034 4750 
+Q 2731 4750 3128 4425 
+Q 3525 4100 3525 3541 
+Q 3525 3141 3298 2862 
+Q 3072 2584 2669 2484 
+Q 3125 2378 3379 2068 
+Q 3634 1759 3634 1313 
+Q 3634 634 3220 271 
+Q 2806 -91 2034 -91 
+Q 1263 -91 848 271 
+Q 434 634 434 1313 
+Q 434 1759 690 2068 
+Q 947 2378 1403 2484 
+z
+M 1172 3481 
+Q 1172 3119 1398 2916 
+Q 1625 2713 2034 2713 
+Q 2441 2713 2670 2916 
+Q 2900 3119 2900 3481 
+Q 2900 3844 2670 4047 
+Q 2441 4250 2034 4250 
+Q 1625 4250 1398 4047 
+Q 1172 3844 1172 3481 
+z
+" transform="scale(0.015625)"/>
+        <path id="DejaVuSans-30" d="M 2034 4250 
+Q 1547 4250 1301 3770 
+Q 1056 3291 1056 2328 
+Q 1056 1369 1301 889 
+Q 1547 409 2034 409 
+Q 2525 409 2770 889 
+Q 3016 1369 3016 2328 
+Q 3016 3291 2770 3770 
+Q 2525 4250 2034 4250 
+z
+M 2034 4750 
+Q 2819 4750 3233 4129 
+Q 3647 3509 3647 2328 
+Q 3647 1150 3233 529 
+Q 2819 -91 2034 -91 
+Q 1250 -91 836 529 
+Q 422 1150 422 2328 
+Q 422 3509 836 4129 
+Q 1250 4750 2034 4750 
+z
+" transform="scale(0.015625)"/>
+        <path id="DejaVuSans-2e" d="M 684 794 
+L 1344 794 
+L 1344 0 
+L 684 0 
+L 684 794 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#DejaVuSans-2d"/>
+       <use xlink:href="#DejaVuSans-38" x="36.083984"/>
+       <use xlink:href="#DejaVuSans-30" x="99.707031"/>
+       <use xlink:href="#DejaVuSans-2e" x="163.330078"/>
+       <use xlink:href="#DejaVuSans-30" x="195.117188"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2">
+      <g>
+       <use xlink:href="#m06108ff549" x="73.653044" y="134.199036" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <!-- -73.0 -->
+      <g transform="translate(60.730667 164.867226)rotate(-45)scale(0.1 -0.1)">
+       <defs>
+        <path id="DejaVuSans-37" d="M 525 4666 
+L 3525 4666 
+L 3525 4397 
+L 1831 0 
+L 1172 0 
+L 2766 4134 
+L 525 4134 
+L 525 4666 
+z
+" transform="scale(0.015625)"/>
+        <path id="DejaVuSans-33" d="M 2597 2516 
+Q 3050 2419 3304 2112 
+Q 3559 1806 3559 1356 
+Q 3559 666 3084 287 
+Q 2609 -91 1734 -91 
+Q 1441 -91 1130 -33 
+Q 819 25 488 141 
+L 488 750 
+Q 750 597 1062 519 
+Q 1375 441 1716 441 
+Q 2309 441 2620 675 
+Q 2931 909 2931 1356 
+Q 2931 1769 2642 2001 
+Q 2353 2234 1838 2234 
+L 1294 2234 
+L 1294 2753 
+L 1863 2753 
+Q 2328 2753 2575 2939 
+Q 2822 3125 2822 3475 
+Q 2822 3834 2567 4026 
+Q 2313 4219 1838 4219 
+Q 1578 4219 1281 4162 
+Q 984 4106 628 3988 
+L 628 4550 
+Q 988 4650 1302 4700 
+Q 1616 4750 1894 4750 
+Q 2613 4750 3031 4423 
+Q 3450 4097 3450 3541 
+Q 3450 3153 3228 2886 
+Q 3006 2619 2597 2516 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#DejaVuSans-2d"/>
+       <use xlink:href="#DejaVuSans-37" x="36.083984"/>
+       <use xlink:href="#DejaVuSans-33" x="99.707031"/>
+       <use xlink:href="#DejaVuSans-2e" x="163.330078"/>
+       <use xlink:href="#DejaVuSans-30" x="195.117188"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3">
+      <g>
+       <use xlink:href="#m06108ff549" x="102.222644" y="134.199036" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <!-- -66.0 -->
+      <g transform="translate(89.300267 164.867226)rotate(-45)scale(0.1 -0.1)">
+       <defs>
+        <path id="DejaVuSans-36" d="M 2113 2584 
+Q 1688 2584 1439 2293 
+Q 1191 2003 1191 1497 
+Q 1191 994 1439 701 
+Q 1688 409 2113 409 
+Q 2538 409 2786 701 
+Q 3034 994 3034 1497 
+Q 3034 2003 2786 2293 
+Q 2538 2584 2113 2584 
+z
+M 3366 4563 
+L 3366 3988 
+Q 3128 4100 2886 4159 
+Q 2644 4219 2406 4219 
+Q 1781 4219 1451 3797 
+Q 1122 3375 1075 2522 
+Q 1259 2794 1537 2939 
+Q 1816 3084 2150 3084 
+Q 2853 3084 3261 2657 
+Q 3669 2231 3669 1497 
+Q 3669 778 3244 343 
+Q 2819 -91 2113 -91 
+Q 1303 -91 875 529 
+Q 447 1150 447 2328 
+Q 447 3434 972 4092 
+Q 1497 4750 2381 4750 
+Q 2619 4750 2861 4703 
+Q 3103 4656 3366 4563 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#DejaVuSans-2d"/>
+       <use xlink:href="#DejaVuSans-36" x="36.083984"/>
+       <use xlink:href="#DejaVuSans-36" x="99.707031"/>
+       <use xlink:href="#DejaVuSans-2e" x="163.330078"/>
+       <use xlink:href="#DejaVuSans-30" x="195.117188"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#m06108ff549" x="130.792244" y="134.199036" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <!-- -59.0 -->
+      <g transform="translate(117.869867 164.867226)rotate(-45)scale(0.1 -0.1)">
+       <defs>
+        <path id="DejaVuSans-35" d="M 691 4666 
+L 3169 4666 
+L 3169 4134 
+L 1269 4134 
+L 1269 2991 
+Q 1406 3038 1543 3061 
+Q 1681 3084 1819 3084 
+Q 2600 3084 3056 2656 
+Q 3513 2228 3513 1497 
+Q 3513 744 3044 326 
+Q 2575 -91 1722 -91 
+Q 1428 -91 1123 -41 
+Q 819 9 494 109 
+L 494 744 
+Q 775 591 1075 516 
+Q 1375 441 1709 441 
+Q 2250 441 2565 725 
+Q 2881 1009 2881 1497 
+Q 2881 1984 2565 2268 
+Q 2250 2553 1709 2553 
+Q 1456 2553 1204 2497 
+Q 953 2441 691 2322 
+L 691 4666 
+z
+" transform="scale(0.015625)"/>
+        <path id="DejaVuSans-39" d="M 703 97 
+L 703 672 
+Q 941 559 1184 500 
+Q 1428 441 1663 441 
+Q 2288 441 2617 861 
+Q 2947 1281 2994 2138 
+Q 2813 1869 2534 1725 
+Q 2256 1581 1919 1581 
+Q 1219 1581 811 2004 
+Q 403 2428 403 3163 
+Q 403 3881 828 4315 
+Q 1253 4750 1959 4750 
+Q 2769 4750 3195 4129 
+Q 3622 3509 3622 2328 
+Q 3622 1225 3098 567 
+Q 2575 -91 1691 -91 
+Q 1453 -91 1209 -44 
+Q 966 3 703 97 
+z
+M 1959 2075 
+Q 2384 2075 2632 2365 
+Q 2881 2656 2881 3163 
+Q 2881 3666 2632 3958 
+Q 2384 4250 1959 4250 
+Q 1534 4250 1286 3958 
+Q 1038 3666 1038 3163 
+Q 1038 2656 1286 2365 
+Q 1534 2075 1959 2075 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#DejaVuSans-2d"/>
+       <use xlink:href="#DejaVuSans-35" x="36.083984"/>
+       <use xlink:href="#DejaVuSans-39" x="99.707031"/>
+       <use xlink:href="#DejaVuSans-2e" x="163.330078"/>
+       <use xlink:href="#DejaVuSans-30" x="195.117188"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_5">
+      <g>
+       <use xlink:href="#m06108ff549" x="159.361844" y="134.199036" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <!-- -52.0 -->
+      <g transform="translate(146.439467 164.867226)rotate(-45)scale(0.1 -0.1)">
+       <defs>
+        <path id="DejaVuSans-32" d="M 1228 531 
+L 3431 531 
+L 3431 0 
+L 469 0 
+L 469 531 
+Q 828 903 1448 1529 
+Q 2069 2156 2228 2338 
+Q 2531 2678 2651 2914 
+Q 2772 3150 2772 3378 
+Q 2772 3750 2511 3984 
+Q 2250 4219 1831 4219 
+Q 1534 4219 1204 4116 
+Q 875 4013 500 3803 
+L 500 4441 
+Q 881 4594 1212 4672 
+Q 1544 4750 1819 4750 
+Q 2544 4750 2975 4387 
+Q 3406 4025 3406 3419 
+Q 3406 3131 3298 2873 
+Q 3191 2616 2906 2266 
+Q 2828 2175 2409 1742 
+Q 1991 1309 1228 531 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#DejaVuSans-2d"/>
+       <use xlink:href="#DejaVuSans-35" x="36.083984"/>
+       <use xlink:href="#DejaVuSans-32" x="99.707031"/>
+       <use xlink:href="#DejaVuSans-2e" x="163.330078"/>
+       <use xlink:href="#DejaVuSans-30" x="195.117188"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#m06108ff549" x="187.931444" y="134.199036" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <!-- -44.9 -->
+      <g transform="translate(175.009067 164.867226)rotate(-45)scale(0.1 -0.1)">
+       <defs>
+        <path id="DejaVuSans-34" d="M 2419 4116 
+L 825 1625 
+L 2419 1625 
+L 2419 4116 
+z
+M 2253 4666 
+L 3047 4666 
+L 3047 1625 
+L 3713 1625 
+L 3713 1100 
+L 3047 1100 
+L 3047 0 
+L 2419 0 
+L 2419 1100 
+L 313 1100 
+L 313 1709 
+L 2253 4666 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#DejaVuSans-2d"/>
+       <use xlink:href="#DejaVuSans-34" x="36.083984"/>
+       <use xlink:href="#DejaVuSans-34" x="99.707031"/>
+       <use xlink:href="#DejaVuSans-2e" x="163.330078"/>
+       <use xlink:href="#DejaVuSans-39" x="195.117188"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_7">
+     <g id="line2d_7">
+      <g>
+       <use xlink:href="#m06108ff549" x="216.501044" y="134.199036" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_7">
+      <!-- -37.9 -->
+      <g transform="translate(203.578667 164.867226)rotate(-45)scale(0.1 -0.1)">
+       <use xlink:href="#DejaVuSans-2d"/>
+       <use xlink:href="#DejaVuSans-33" x="36.083984"/>
+       <use xlink:href="#DejaVuSans-37" x="99.707031"/>
+       <use xlink:href="#DejaVuSans-2e" x="163.330078"/>
+       <use xlink:href="#DejaVuSans-39" x="195.117188"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_8">
+     <g id="line2d_8">
+      <g>
+       <use xlink:href="#m06108ff549" x="245.070644" y="134.199036" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_8">
+      <!-- -30.9 -->
+      <g transform="translate(232.148267 164.867226)rotate(-45)scale(0.1 -0.1)">
+       <use xlink:href="#DejaVuSans-2d"/>
+       <use xlink:href="#DejaVuSans-33" x="36.083984"/>
+       <use xlink:href="#DejaVuSans-30" x="99.707031"/>
+       <use xlink:href="#DejaVuSans-2e" x="163.330078"/>
+       <use xlink:href="#DejaVuSans-39" x="195.117188"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_9">
+     <g id="line2d_9">
+      <g>
+       <use xlink:href="#m06108ff549" x="273.640244" y="134.199036" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_9">
+      <!-- -23.9 -->
+      <g transform="translate(260.717867 164.867226)rotate(-45)scale(0.1 -0.1)">
+       <use xlink:href="#DejaVuSans-2d"/>
+       <use xlink:href="#DejaVuSans-32" x="36.083984"/>
+       <use xlink:href="#DejaVuSans-33" x="99.707031"/>
+       <use xlink:href="#DejaVuSans-2e" x="163.330078"/>
+       <use xlink:href="#DejaVuSans-39" x="195.117188"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_10">
+     <g id="line2d_10">
+      <g>
+       <use xlink:href="#m06108ff549" x="302.209844" y="134.199036" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_10">
+      <!-- -16.9 -->
+      <g transform="translate(289.287467 164.867226)rotate(-45)scale(0.1 -0.1)">
+       <defs>
+        <path id="DejaVuSans-31" d="M 794 531 
+L 1825 531 
+L 1825 4091 
+L 703 3866 
+L 703 4441 
+L 1819 4666 
+L 2450 4666 
+L 2450 531 
+L 3481 531 
+L 3481 0 
+L 794 0 
+L 794 531 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#DejaVuSans-2d"/>
+       <use xlink:href="#DejaVuSans-31" x="36.083984"/>
+       <use xlink:href="#DejaVuSans-36" x="99.707031"/>
+       <use xlink:href="#DejaVuSans-2e" x="163.330078"/>
+       <use xlink:href="#DejaVuSans-39" x="195.117188"/>
+      </g>
+     </g>
+    </g>
+    <g id="text_11">
+     <!-- Longitude -->
+     <g transform="translate(157.883938 179.455912)scale(0.12 -0.12)">
+      <defs>
+       <path id="DejaVuSans-4c" d="M 628 4666 
+L 1259 4666 
+L 1259 531 
+L 3531 531 
+L 3531 0 
+L 628 0 
+L 628 4666 
+z
+" transform="scale(0.015625)"/>
+       <path id="DejaVuSans-6f" d="M 1959 3097 
+Q 1497 3097 1228 2736 
+Q 959 2375 959 1747 
+Q 959 1119 1226 758 
+Q 1494 397 1959 397 
+Q 2419 397 2687 759 
+Q 2956 1122 2956 1747 
+Q 2956 2369 2687 2733 
+Q 2419 3097 1959 3097 
+z
+M 1959 3584 
+Q 2709 3584 3137 3096 
+Q 3566 2609 3566 1747 
+Q 3566 888 3137 398 
+Q 2709 -91 1959 -91 
+Q 1206 -91 779 398 
+Q 353 888 353 1747 
+Q 353 2609 779 3096 
+Q 1206 3584 1959 3584 
+z
+" transform="scale(0.015625)"/>
+       <path id="DejaVuSans-6e" d="M 3513 2113 
+L 3513 0 
+L 2938 0 
+L 2938 2094 
+Q 2938 2591 2744 2837 
+Q 2550 3084 2163 3084 
+Q 1697 3084 1428 2787 
+Q 1159 2491 1159 1978 
+L 1159 0 
+L 581 0 
+L 581 3500 
+L 1159 3500 
+L 1159 2956 
+Q 1366 3272 1645 3428 
+Q 1925 3584 2291 3584 
+Q 2894 3584 3203 3211 
+Q 3513 2838 3513 2113 
+z
+" transform="scale(0.015625)"/>
+       <path id="DejaVuSans-67" d="M 2906 1791 
+Q 2906 2416 2648 2759 
+Q 2391 3103 1925 3103 
+Q 1463 3103 1205 2759 
+Q 947 2416 947 1791 
+Q 947 1169 1205 825 
+Q 1463 481 1925 481 
+Q 2391 481 2648 825 
+Q 2906 1169 2906 1791 
+z
+M 3481 434 
+Q 3481 -459 3084 -895 
+Q 2688 -1331 1869 -1331 
+Q 1566 -1331 1297 -1286 
+Q 1028 -1241 775 -1147 
+L 775 -588 
+Q 1028 -725 1275 -790 
+Q 1522 -856 1778 -856 
+Q 2344 -856 2625 -561 
+Q 2906 -266 2906 331 
+L 2906 616 
+Q 2728 306 2450 153 
+Q 2172 0 1784 0 
+Q 1141 0 747 490 
+Q 353 981 353 1791 
+Q 353 2603 747 3093 
+Q 1141 3584 1784 3584 
+Q 2172 3584 2450 3431 
+Q 2728 3278 2906 2969 
+L 2906 3500 
+L 3481 3500 
+L 3481 434 
+z
+" transform="scale(0.015625)"/>
+       <path id="DejaVuSans-69" d="M 603 3500 
+L 1178 3500 
+L 1178 0 
+L 603 0 
+L 603 3500 
+z
+M 603 4863 
+L 1178 4863 
+L 1178 4134 
+L 603 4134 
+L 603 4863 
+z
+" transform="scale(0.015625)"/>
+       <path id="DejaVuSans-74" d="M 1172 4494 
+L 1172 3500 
+L 2356 3500 
+L 2356 3053 
+L 1172 3053 
+L 1172 1153 
+Q 1172 725 1289 603 
+Q 1406 481 1766 481 
+L 2356 481 
+L 2356 0 
+L 1766 0 
+Q 1100 0 847 248 
+Q 594 497 594 1153 
+L 594 3053 
+L 172 3053 
+L 172 3500 
+L 594 3500 
+L 594 4494 
+L 1172 4494 
+z
+" transform="scale(0.015625)"/>
+       <path id="DejaVuSans-75" d="M 544 1381 
+L 544 3500 
+L 1119 3500 
+L 1119 1403 
+Q 1119 906 1312 657 
+Q 1506 409 1894 409 
+Q 2359 409 2629 706 
+Q 2900 1003 2900 1516 
+L 2900 3500 
+L 3475 3500 
+L 3475 0 
+L 2900 0 
+L 2900 538 
+Q 2691 219 2414 64 
+Q 2138 -91 1772 -91 
+Q 1169 -91 856 284 
+Q 544 659 544 1381 
+z
+M 1991 3584 
+L 1991 3584 
+z
+" transform="scale(0.015625)"/>
+       <path id="DejaVuSans-64" d="M 2906 2969 
+L 2906 4863 
+L 3481 4863 
+L 3481 0 
+L 2906 0 
+L 2906 525 
+Q 2725 213 2448 61 
+Q 2172 -91 1784 -91 
+Q 1150 -91 751 415 
+Q 353 922 353 1747 
+Q 353 2572 751 3078 
+Q 1150 3584 1784 3584 
+Q 2172 3584 2448 3432 
+Q 2725 3281 2906 2969 
+z
+M 947 1747 
+Q 947 1113 1208 752 
+Q 1469 391 1925 391 
+Q 2381 391 2643 752 
+Q 2906 1113 2906 1747 
+Q 2906 2381 2643 2742 
+Q 2381 3103 1925 3103 
+Q 1469 3103 1208 2742 
+Q 947 2381 947 1747 
+z
+" transform="scale(0.015625)"/>
+       <path id="DejaVuSans-65" d="M 3597 1894 
+L 3597 1613 
+L 953 1613 
+Q 991 1019 1311 708 
+Q 1631 397 2203 397 
+Q 2534 397 2845 478 
+Q 3156 559 3463 722 
+L 3463 178 
+Q 3153 47 2828 -22 
+Q 2503 -91 2169 -91 
+Q 1331 -91 842 396 
+Q 353 884 353 1716 
+Q 353 2575 817 3079 
+Q 1281 3584 2069 3584 
+Q 2775 3584 3186 3129 
+Q 3597 2675 3597 1894 
+z
+M 3022 2063 
+Q 3016 2534 2758 2815 
+Q 2500 3097 2075 3097 
+Q 1594 3097 1305 2825 
+Q 1016 2553 972 2059 
+L 3022 2063 
+z
+" transform="scale(0.015625)"/>
+      </defs>
+      <use xlink:href="#DejaVuSans-4c"/>
+      <use xlink:href="#DejaVuSans-6f" x="53.962891"/>
+      <use xlink:href="#DejaVuSans-6e" x="115.144531"/>
+      <use xlink:href="#DejaVuSans-67" x="178.523438"/>
+      <use xlink:href="#DejaVuSans-69" x="242"/>
+      <use xlink:href="#DejaVuSans-74" x="269.783203"/>
+      <use xlink:href="#DejaVuSans-75" x="308.992188"/>
+      <use xlink:href="#DejaVuSans-64" x="372.371094"/>
+      <use xlink:href="#DejaVuSans-65" x="435.847656"/>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_11">
+      <defs>
+       <path id="m215b98c1fc" d="M 0 0 
+L -3.5 0 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m215b98c1fc" x="44.879375" y="3.799219" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_12">
+      <!-- 60.0 -->
+      <g transform="translate(15.61375 7.598438)scale(0.1 -0.1)">
+       <use xlink:href="#DejaVuSans-36"/>
+       <use xlink:href="#DejaVuSans-30" x="63.623047"/>
+       <use xlink:href="#DejaVuSans-2e" x="127.246094"/>
+       <use xlink:href="#DejaVuSans-30" x="159.033203"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_12">
+      <g>
+       <use xlink:href="#m215b98c1fc" x="44.879375" y="16.859607" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_13">
+      <!-- 56.8 -->
+      <g transform="translate(15.61375 20.658826)scale(0.1 -0.1)">
+       <use xlink:href="#DejaVuSans-35"/>
+       <use xlink:href="#DejaVuSans-36" x="63.623047"/>
+       <use xlink:href="#DejaVuSans-2e" x="127.246094"/>
+       <use xlink:href="#DejaVuSans-38" x="159.033203"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_13">
+      <g>
+       <use xlink:href="#m215b98c1fc" x="44.879375" y="29.919996" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_14">
+      <!-- 53.6 -->
+      <g transform="translate(15.61375 33.719215)scale(0.1 -0.1)">
+       <use xlink:href="#DejaVuSans-35"/>
+       <use xlink:href="#DejaVuSans-33" x="63.623047"/>
+       <use xlink:href="#DejaVuSans-2e" x="127.246094"/>
+       <use xlink:href="#DejaVuSans-36" x="159.033203"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_14">
+      <g>
+       <use xlink:href="#m215b98c1fc" x="44.879375" y="42.980384" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_15">
+      <!-- 50.4 -->
+      <g transform="translate(15.61375 46.779603)scale(0.1 -0.1)">
+       <use xlink:href="#DejaVuSans-35"/>
+       <use xlink:href="#DejaVuSans-30" x="63.623047"/>
+       <use xlink:href="#DejaVuSans-2e" x="127.246094"/>
+       <use xlink:href="#DejaVuSans-34" x="159.033203"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_15">
+      <g>
+       <use xlink:href="#m215b98c1fc" x="44.879375" y="56.040773" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_16">
+      <!-- 47.2 -->
+      <g transform="translate(15.61375 59.839992)scale(0.1 -0.1)">
+       <use xlink:href="#DejaVuSans-34"/>
+       <use xlink:href="#DejaVuSans-37" x="63.623047"/>
+       <use xlink:href="#DejaVuSans-2e" x="127.246094"/>
+       <use xlink:href="#DejaVuSans-32" x="159.033203"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_16">
+      <g>
+       <use xlink:href="#m215b98c1fc" x="44.879375" y="69.101162" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_17">
+      <!-- 43.9 -->
+      <g transform="translate(15.61375 72.90038)scale(0.1 -0.1)">
+       <use xlink:href="#DejaVuSans-34"/>
+       <use xlink:href="#DejaVuSans-33" x="63.623047"/>
+       <use xlink:href="#DejaVuSans-2e" x="127.246094"/>
+       <use xlink:href="#DejaVuSans-39" x="159.033203"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_17">
+      <g>
+       <use xlink:href="#m215b98c1fc" x="44.879375" y="82.16155" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_18">
+      <!-- 40.7 -->
+      <g transform="translate(15.61375 85.960769)scale(0.1 -0.1)">
+       <use xlink:href="#DejaVuSans-34"/>
+       <use xlink:href="#DejaVuSans-30" x="63.623047"/>
+       <use xlink:href="#DejaVuSans-2e" x="127.246094"/>
+       <use xlink:href="#DejaVuSans-37" x="159.033203"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_8">
+     <g id="line2d_18">
+      <g>
+       <use xlink:href="#m215b98c1fc" x="44.879375" y="95.221939" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_19">
+      <!-- 37.5 -->
+      <g transform="translate(15.61375 99.021158)scale(0.1 -0.1)">
+       <use xlink:href="#DejaVuSans-33"/>
+       <use xlink:href="#DejaVuSans-37" x="63.623047"/>
+       <use xlink:href="#DejaVuSans-2e" x="127.246094"/>
+       <use xlink:href="#DejaVuSans-35" x="159.033203"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_9">
+     <g id="line2d_19">
+      <g>
+       <use xlink:href="#m215b98c1fc" x="44.879375" y="108.282327" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_20">
+      <!-- 34.3 -->
+      <g transform="translate(15.61375 112.081546)scale(0.1 -0.1)">
+       <use xlink:href="#DejaVuSans-33"/>
+       <use xlink:href="#DejaVuSans-34" x="63.623047"/>
+       <use xlink:href="#DejaVuSans-2e" x="127.246094"/>
+       <use xlink:href="#DejaVuSans-33" x="159.033203"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_10">
+     <g id="line2d_20">
+      <g>
+       <use xlink:href="#m215b98c1fc" x="44.879375" y="121.342716" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_21">
+      <!-- 31.1 -->
+      <g transform="translate(15.61375 125.141935)scale(0.1 -0.1)">
+       <use xlink:href="#DejaVuSans-33"/>
+       <use xlink:href="#DejaVuSans-31" x="63.623047"/>
+       <use xlink:href="#DejaVuSans-2e" x="127.246094"/>
+       <use xlink:href="#DejaVuSans-31" x="159.033203"/>
+      </g>
+     </g>
+    </g>
+    <g id="text_22">
+     <!-- Latitude -->
+     <g transform="translate(9.118125 93.591781)rotate(-90)scale(0.12 -0.12)">
+      <defs>
+       <path id="DejaVuSans-61" d="M 2194 1759 
+Q 1497 1759 1228 1600 
+Q 959 1441 959 1056 
+Q 959 750 1161 570 
+Q 1363 391 1709 391 
+Q 2188 391 2477 730 
+Q 2766 1069 2766 1631 
+L 2766 1759 
+L 2194 1759 
+z
+M 3341 1997 
+L 3341 0 
+L 2766 0 
+L 2766 531 
+Q 2569 213 2275 61 
+Q 1981 -91 1556 -91 
+Q 1019 -91 701 211 
+Q 384 513 384 1019 
+Q 384 1609 779 1909 
+Q 1175 2209 1959 2209 
+L 2766 2209 
+L 2766 2266 
+Q 2766 2663 2505 2880 
+Q 2244 3097 1772 3097 
+Q 1472 3097 1187 3025 
+Q 903 2953 641 2809 
+L 641 3341 
+Q 956 3463 1253 3523 
+Q 1550 3584 1831 3584 
+Q 2591 3584 2966 3190 
+Q 3341 2797 3341 1997 
+z
+" transform="scale(0.015625)"/>
+      </defs>
+      <use xlink:href="#DejaVuSans-4c"/>
+      <use xlink:href="#DejaVuSans-61" x="55.712891"/>
+      <use xlink:href="#DejaVuSans-74" x="116.992188"/>
+      <use xlink:href="#DejaVuSans-69" x="156.201172"/>
+      <use xlink:href="#DejaVuSans-74" x="183.984375"/>
+      <use xlink:href="#DejaVuSans-75" x="223.193359"/>
+      <use xlink:href="#DejaVuSans-64" x="286.572266"/>
+      <use xlink:href="#DejaVuSans-65" x="350.048828"/>
+     </g>
+    </g>
+   </g>
+   <g id="line2d_21">
+    <path d="M 272.82103 127.87291 
+L 302.209844 127.87291 
+" clip-path="url(#p0358d75b8e)" style="fill: none; stroke: #000000; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_22">
+    <path d="M 272.82103 127.464773 
+L 272.82103 128.281047 
+" clip-path="url(#p0358d75b8e)" style="fill: none; stroke: #000000; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_23">
+    <path d="M 302.209844 127.464773 
+L 302.209844 128.281047 
+" clip-path="url(#p0358d75b8e)" style="fill: none; stroke: #000000; stroke-linecap: square"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 44.879375 134.199036 
+L 44.879375 3.59515 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 330.575375 134.199036 
+L 330.575375 3.59515 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 44.879375 134.199036 
+L 330.575375 134.199036 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 44.879375 3.59515 
+L 330.575375 3.59515 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_23">
+    <!-- 800.0 [km] -->
+    <g transform="translate(259.945124 116.347485)scale(0.1 -0.1)">
+     <defs>
+      <path id="DejaVuSans-20" transform="scale(0.015625)"/>
+      <path id="DejaVuSans-5b" d="M 550 4863 
+L 1875 4863 
+L 1875 4416 
+L 1125 4416 
+L 1125 -397 
+L 1875 -397 
+L 1875 -844 
+L 550 -844 
+L 550 4863 
+z
+" transform="scale(0.015625)"/>
+      <path id="DejaVuSans-6b" d="M 581 4863 
+L 1159 4863 
+L 1159 1991 
+L 2875 3500 
+L 3609 3500 
+L 1753 1863 
+L 3688 0 
+L 2938 0 
+L 1159 1709 
+L 1159 0 
+L 581 0 
+L 581 4863 
+z
+" transform="scale(0.015625)"/>
+      <path id="DejaVuSans-6d" d="M 3328 2828 
+Q 3544 3216 3844 3400 
+Q 4144 3584 4550 3584 
+Q 5097 3584 5394 3201 
+Q 5691 2819 5691 2113 
+L 5691 0 
+L 5113 0 
+L 5113 2094 
+Q 5113 2597 4934 2840 
+Q 4756 3084 4391 3084 
+Q 3944 3084 3684 2787 
+Q 3425 2491 3425 1978 
+L 3425 0 
+L 2847 0 
+L 2847 2094 
+Q 2847 2600 2669 2842 
+Q 2491 3084 2119 3084 
+Q 1678 3084 1418 2786 
+Q 1159 2488 1159 1978 
+L 1159 0 
+L 581 0 
+L 581 3500 
+L 1159 3500 
+L 1159 2956 
+Q 1356 3278 1631 3431 
+Q 1906 3584 2284 3584 
+Q 2666 3584 2933 3390 
+Q 3200 3197 3328 2828 
+z
+" transform="scale(0.015625)"/>
+      <path id="DejaVuSans-5d" d="M 1947 4863 
+L 1947 -844 
+L 622 -844 
+L 622 -397 
+L 1369 -397 
+L 1369 4416 
+L 622 4416 
+L 622 4863 
+L 1947 4863 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#DejaVuSans-38"/>
+     <use xlink:href="#DejaVuSans-30" x="63.623047"/>
+     <use xlink:href="#DejaVuSans-30" x="127.246094"/>
+     <use xlink:href="#DejaVuSans-2e" x="190.869141"/>
+     <use xlink:href="#DejaVuSans-30" x="222.65625"/>
+     <use xlink:href="#DejaVuSans-20" x="286.279297"/>
+     <use xlink:href="#DejaVuSans-5b" x="318.066406"/>
+     <use xlink:href="#DejaVuSans-6b" x="357.080078"/>
+     <use xlink:href="#DejaVuSans-6d" x="414.990234"/>
+     <use xlink:href="#DejaVuSans-5d" x="512.402344"/>
+    </g>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_7">
+    <path d="M 348.431375 127.649093 
+L 354.306575 127.649093 
+L 354.306575 10.145093 
+L 348.431375 10.145093 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="patch_8">
+    <path clip-path="url(#p85ca0fb424)" style="fill: #ffffff; stroke: #ffffff; stroke-width: 0.01; stroke-linejoin: miter"/>
+   </g>
+   <image xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAAAgAAACkCAYAAACq0W8eAAAAgElEQVR4nO2WwQkAMQgEV7H/ioO5DowQyLmw+RrGmZ8G7I3ihXs1BiLi8GECgUJSmU0ChaQymwQKSWU+I1BIKrNJoJBUZpNwvcIyDwenoZwjsNbhQ+Yt4cGKCQQKyQkECkllNgkUkspsEigkldkkUEhOIFBI/p9p2708KG2jvjg/gnmrgROJMjcAAAAASUVORK5CYII=" id="imagecd60b3f00d" transform="scale(1 -1)translate(0 -118.08)" x="348.48" y="-9.36" width="5.76" height="118.08"/>
+   <g id="matplotlib.axis_3">
+    <g id="ytick_11">
+     <g id="line2d_24">
+      <defs>
+       <path id="mee5d6c7fbb" d="M 0 0 
+L 3.5 0 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#mee5d6c7fbb" x="354.306575" y="127.649093" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_24">
+      <!-- 0.0 -->
+      <g transform="translate(361.306575 131.448312)scale(0.1 -0.1)">
+       <use xlink:href="#DejaVuSans-30"/>
+       <use xlink:href="#DejaVuSans-2e" x="63.623047"/>
+       <use xlink:href="#DejaVuSans-30" x="95.410156"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_12">
+     <g id="line2d_25">
+      <g>
+       <use xlink:href="#mee5d6c7fbb" x="354.306575" y="104.148293" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_25">
+      <!-- 0.2 -->
+      <g transform="translate(361.306575 107.947512)scale(0.1 -0.1)">
+       <use xlink:href="#DejaVuSans-30"/>
+       <use xlink:href="#DejaVuSans-2e" x="63.623047"/>
+       <use xlink:href="#DejaVuSans-32" x="95.410156"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_13">
+     <g id="line2d_26">
+      <g>
+       <use xlink:href="#mee5d6c7fbb" x="354.306575" y="80.647493" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_26">
+      <!-- 0.4 -->
+      <g transform="translate(361.306575 84.446712)scale(0.1 -0.1)">
+       <use xlink:href="#DejaVuSans-30"/>
+       <use xlink:href="#DejaVuSans-2e" x="63.623047"/>
+       <use xlink:href="#DejaVuSans-34" x="95.410156"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_14">
+     <g id="line2d_27">
+      <g>
+       <use xlink:href="#mee5d6c7fbb" x="354.306575" y="57.146693" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_27">
+      <!-- 0.6 -->
+      <g transform="translate(361.306575 60.945912)scale(0.1 -0.1)">
+       <use xlink:href="#DejaVuSans-30"/>
+       <use xlink:href="#DejaVuSans-2e" x="63.623047"/>
+       <use xlink:href="#DejaVuSans-36" x="95.410156"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_15">
+     <g id="line2d_28">
+      <g>
+       <use xlink:href="#mee5d6c7fbb" x="354.306575" y="33.645893" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_28">
+      <!-- 0.8 -->
+      <g transform="translate(361.306575 37.445112)scale(0.1 -0.1)">
+       <use xlink:href="#DejaVuSans-30"/>
+       <use xlink:href="#DejaVuSans-2e" x="63.623047"/>
+       <use xlink:href="#DejaVuSans-38" x="95.410156"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_16">
+     <g id="line2d_29">
+      <g>
+       <use xlink:href="#mee5d6c7fbb" x="354.306575" y="10.145093" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_29">
+      <!-- 1.0 -->
+      <g transform="translate(361.306575 13.944312)scale(0.1 -0.1)">
+       <use xlink:href="#DejaVuSans-31"/>
+       <use xlink:href="#DejaVuSans-2e" x="63.623047"/>
+       <use xlink:href="#DejaVuSans-30" x="95.410156"/>
+      </g>
+     </g>
+    </g>
+    <g id="text_30">
+     <!-- Blue - -&gt; No | Red - -&gt; Yes -->
+     <g transform="translate(388.851888 131.148656)rotate(-90)scale(0.1 -0.1)">
+      <defs>
+       <path id="DejaVuSans-42" d="M 1259 2228 
+L 1259 519 
+L 2272 519 
+Q 2781 519 3026 730 
+Q 3272 941 3272 1375 
+Q 3272 1813 3026 2020 
+Q 2781 2228 2272 2228 
+L 1259 2228 
+z
+M 1259 4147 
+L 1259 2741 
+L 2194 2741 
+Q 2656 2741 2882 2914 
+Q 3109 3088 3109 3444 
+Q 3109 3797 2882 3972 
+Q 2656 4147 2194 4147 
+L 1259 4147 
+z
+M 628 4666 
+L 2241 4666 
+Q 2963 4666 3353 4366 
+Q 3744 4066 3744 3513 
+Q 3744 3084 3544 2831 
+Q 3344 2578 2956 2516 
+Q 3422 2416 3680 2098 
+Q 3938 1781 3938 1306 
+Q 3938 681 3513 340 
+Q 3088 0 2303 0 
+L 628 0 
+L 628 4666 
+z
+" transform="scale(0.015625)"/>
+       <path id="DejaVuSans-6c" d="M 603 4863 
+L 1178 4863 
+L 1178 0 
+L 603 0 
+L 603 4863 
+z
+" transform="scale(0.015625)"/>
+       <path id="DejaVuSans-3e" d="M 678 3150 
+L 678 3719 
+L 4684 2266 
+L 4684 1747 
+L 678 294 
+L 678 863 
+L 3897 2003 
+L 678 3150 
+z
+" transform="scale(0.015625)"/>
+       <path id="DejaVuSans-4e" d="M 628 4666 
+L 1478 4666 
+L 3547 763 
+L 3547 4666 
+L 4159 4666 
+L 4159 0 
+L 3309 0 
+L 1241 3903 
+L 1241 0 
+L 628 0 
+L 628 4666 
+z
+" transform="scale(0.015625)"/>
+       <path id="DejaVuSans-7c" d="M 1344 4891 
+L 1344 -1509 
+L 813 -1509 
+L 813 4891 
+L 1344 4891 
+z
+" transform="scale(0.015625)"/>
+       <path id="DejaVuSans-52" d="M 2841 2188 
+Q 3044 2119 3236 1894 
+Q 3428 1669 3622 1275 
+L 4263 0 
+L 3584 0 
+L 2988 1197 
+Q 2756 1666 2539 1819 
+Q 2322 1972 1947 1972 
+L 1259 1972 
+L 1259 0 
+L 628 0 
+L 628 4666 
+L 2053 4666 
+Q 2853 4666 3247 4331 
+Q 3641 3997 3641 3322 
+Q 3641 2881 3436 2590 
+Q 3231 2300 2841 2188 
+z
+M 1259 4147 
+L 1259 2491 
+L 2053 2491 
+Q 2509 2491 2742 2702 
+Q 2975 2913 2975 3322 
+Q 2975 3731 2742 3939 
+Q 2509 4147 2053 4147 
+L 1259 4147 
+z
+" transform="scale(0.015625)"/>
+       <path id="DejaVuSans-59" d="M -13 4666 
+L 666 4666 
+L 1959 2747 
+L 3244 4666 
+L 3922 4666 
+L 2272 2222 
+L 2272 0 
+L 1638 0 
+L 1638 2222 
+L -13 4666 
+z
+" transform="scale(0.015625)"/>
+       <path id="DejaVuSans-73" d="M 2834 3397 
+L 2834 2853 
+Q 2591 2978 2328 3040 
+Q 2066 3103 1784 3103 
+Q 1356 3103 1142 2972 
+Q 928 2841 928 2578 
+Q 928 2378 1081 2264 
+Q 1234 2150 1697 2047 
+L 1894 2003 
+Q 2506 1872 2764 1633 
+Q 3022 1394 3022 966 
+Q 3022 478 2636 193 
+Q 2250 -91 1575 -91 
+Q 1294 -91 989 -36 
+Q 684 19 347 128 
+L 347 722 
+Q 666 556 975 473 
+Q 1284 391 1588 391 
+Q 1994 391 2212 530 
+Q 2431 669 2431 922 
+Q 2431 1156 2273 1281 
+Q 2116 1406 1581 1522 
+L 1381 1569 
+Q 847 1681 609 1914 
+Q 372 2147 372 2553 
+Q 372 3047 722 3315 
+Q 1072 3584 1716 3584 
+Q 2034 3584 2315 3537 
+Q 2597 3491 2834 3397 
+z
+" transform="scale(0.015625)"/>
+      </defs>
+      <use xlink:href="#DejaVuSans-42"/>
+      <use xlink:href="#DejaVuSans-6c" x="68.603516"/>
+      <use xlink:href="#DejaVuSans-75" x="96.386719"/>
+      <use xlink:href="#DejaVuSans-65" x="159.765625"/>
+      <use xlink:href="#DejaVuSans-20" x="221.289062"/>
+      <use xlink:href="#DejaVuSans-2d" x="253.076172"/>
+      <use xlink:href="#DejaVuSans-2d" x="289.160156"/>
+      <use xlink:href="#DejaVuSans-3e" x="325.244141"/>
+      <use xlink:href="#DejaVuSans-20" x="409.033203"/>
+      <use xlink:href="#DejaVuSans-4e" x="440.820312"/>
+      <use xlink:href="#DejaVuSans-6f" x="515.625"/>
+      <use xlink:href="#DejaVuSans-20" x="576.806641"/>
+      <use xlink:href="#DejaVuSans-7c" x="608.59375"/>
+      <use xlink:href="#DejaVuSans-20" x="642.285156"/>
+      <use xlink:href="#DejaVuSans-52" x="674.072266"/>
+      <use xlink:href="#DejaVuSans-65" x="739.054688"/>
+      <use xlink:href="#DejaVuSans-64" x="800.578125"/>
+      <use xlink:href="#DejaVuSans-20" x="864.054688"/>
+      <use xlink:href="#DejaVuSans-2d" x="895.841797"/>
+      <use xlink:href="#DejaVuSans-2d" x="931.925781"/>
+      <use xlink:href="#DejaVuSans-3e" x="968.009766"/>
+      <use xlink:href="#DejaVuSans-20" x="1051.798828"/>
+      <use xlink:href="#DejaVuSans-59" x="1083.585938"/>
+      <use xlink:href="#DejaVuSans-65" x="1131.419922"/>
+      <use xlink:href="#DejaVuSans-73" x="1192.943359"/>
+     </g>
+    </g>
+   </g>
+   <g id="LineCollection_1"/>
+   <g id="patch_9">
+    <path d="M 348.431375 127.649093 
+L 351.368975 127.649093 
+L 354.306575 127.649093 
+L 354.306575 10.145093 
+L 351.368975 10.145093 
+L 348.431375 10.145093 
+L 348.431375 127.649093 
+z
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p0358d75b8e">
+   <rect x="44.879375" y="3.59515" width="285.696" height="130.603886"/>
+  </clipPath>
+  <clipPath id="p85ca0fb424">
+   <rect x="348.431375" y="10.145093" width="5.8752" height="117.504"/>
+  </clipPath>
+ </defs>
+</svg>
